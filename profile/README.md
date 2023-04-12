@@ -1,6 +1,6 @@
 # Welcome to WRLD Tech Consulting's profile!
 
-## About
+## About 
 
 # WRLD.Tech
 **WRLD.Tech** is a software consultancy founded by a team of individuals with a diverse background in computer science, software development, UI/UX design and development, management information systems, cloud development, and infrastructure. The company was named after the initials of the founders, and since its inception, it has been committed to providing clients with the most proficient technology-focused solutions to expedite and streamline their growth.
